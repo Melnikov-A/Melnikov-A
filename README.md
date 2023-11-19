@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Anton! 👋
 
 <!--
 **Melnikov-A/Melnikov-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Моя статистика:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melnikov-A&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaurB&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaurB&theme=solarized_dark)
