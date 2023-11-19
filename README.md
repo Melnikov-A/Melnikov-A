@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ### Моя статистика:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melnikov-A&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaurB&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaurB&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Melnikov-A&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Melnikov-A&theme=solarized_dark)
