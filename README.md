@@ -31,10 +31,10 @@
 
 ### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
-### :star: Проект UI автоматизации сайта Билайн
+### :star: Проект UI автоматизации сайта [Билайн](https://moskva.beeline.ru/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Melnikov-A&repo=Beeline_UI_autotests)](https://github.com/Melnikov-A/Beeline_UI_autotests)
 
-### :bangbang: Проект APi автоматизации  сервиса reqres.in
+### :bangbang: Проект APi автоматизации  сервиса [Reqres.in](https://reqres.in/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Melnikov-A&repo=Reqres_API_autotests)](https://github.com/Melnikov-A/Reqres_API_autotests)
 
 ### :phone:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
