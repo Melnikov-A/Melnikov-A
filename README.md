@@ -28,13 +28,18 @@
 <img width="5%" title="Jira" src="images/logo/Jira.svg">
 </p>
 
-### Мои проекты для QA.GURU, школы инженеров по автоматизации тестирования на Java :mortar_board:
+### Мои проекты по автоматизации тестирования на Java :mortar_board:
 
-### :bangbang: Проект UI автоматизации сайта Билайн
+### :star: Проект UI автоматизации сайта Билайн
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Melnikov-A&repo=Beeline_UI_autotests)](https://github.com/Melnikov-A/Beeline_UI_autotests)
 
 ### :bangbang: Проект APi автоматизации  сервиса reqres.in
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Melnikov-A&repo=Reqres_API_autotests)](https://github.com/Melnikov-A/Reqres_API_autotests)
+
+### :phone:  Проект по автоматизации mobile тестов для приложения [Wikipedia](https://ru.wikipedia.org/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Melnikov-A&repo=Wikipedia_mobile_autotests)](https://github.com/Melnikov-A/Wikipedia_mobile_autotests)
+
+
 
 ### Моя статистика:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melnikov-A&theme=solarized_dark)
