@@ -19,6 +19,8 @@
 <img width="6%" title="Java" src="images/logo/Java.svg">
 <img width="6%" title="Selenide" src="images/logo/Selenide.svg">
 <img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
+<img width="6%" title="Selenoid" src="images/logo/androidstudio.svg">
+<img width="6%" title="Selenoid" src="images/logo/appium_inspector.png">
 <img width="6%" title="Allure Report" src="images/logo/Allure.svg">
 <img width="5%" title="Allure TestOps" src="images/logo/Allure_TO.svg">
 <img width="6%" title="Gradle" src="images/logo/Gradle.svg">
