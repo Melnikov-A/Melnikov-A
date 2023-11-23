@@ -22,6 +22,7 @@
 <img width="6%" title="Allure Report" src="images/logo/Allure.svg">
 <img width="5%" title="Allure TestOps" src="images/logo/Allure_TO.svg">
 <img width="6%" title="Gradle" src="images/logo/Gradle.svg">
+<img width="6%" title="Gradle" src="images/logo/Appium.svg">
 <img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
 <img width="6%" title="GitHub" src="images/logo/GitHub.svg">
 <img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
