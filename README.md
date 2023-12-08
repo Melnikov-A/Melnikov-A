@@ -10,6 +10,11 @@
     <img src="https://img.shields.io/badge/@Mail.ru-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
   </a>
 
+  <a href="https://www.linkedin.com/in/anton-melnikov-6254532a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+
 ### Мои инструменты и технологии:
 <p align="center">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/Idea.svg">
