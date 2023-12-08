@@ -1,7 +1,5 @@
- <h1>Привет, я  <a href="(https://github.com/Melnikov-A/)" target="_blank"> Антон </a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt=""/> </h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+QA+Engineer)](https://git.io/typing-svg)
-
+ <h1 align="center"> Привет, я Антон  </h1>
+<h3 align="center"> QA Automation Engineer </h3>
 
 ### Мои контакты:
   <a href="https://t.me/melnikof2049">
