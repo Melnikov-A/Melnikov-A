@@ -48,6 +48,6 @@
 
 
 ### Моя статистика:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melnikov-A&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Melnikov-A&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Melnikov-A&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Melnikov-A&theme=algoria)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Melnikov-A&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Melnikov-A&theme=algolia)
